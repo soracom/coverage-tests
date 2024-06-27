@@ -2,13 +2,13 @@
 
 Soracom maintains an official list of [Supported Carriers](https://developers.soracom.io/en/docs/reference/carriers/) that provides up-to-date details of its global cellular coverage. While this list represents cellular network coverage that is guaranteed through Soracom's roaming contracts and partnerships, there are many additional cellular networks where network access is available to devices using Soracom IoT SIMs but which are not yet officially guaranteed.
 
-This repository provides supplemental information regarding testing that Soracom has performed for these additional cellular networks. Where testing is possible, each of the cellular networks listed in this repository are tested several times to confirm that data transfer is possible.
+This repository provides supplemental information regarding testing that Soracom has performed for these additional cellular networks. Where testing is possible, each of the cellular networks listed in this repository is tested several times to confirm that data transfer is possible.
 
 ## Test information
 
 - `Guaranteed` indicates a network where coverage is guaranteed through a roaming agreement.
 - `Validated` indicates a network that has been independently tested and proven to function at the time of the test. These networks are not covered by a contract, and no SLA is provided.
-- `Observed` indicates a network where traffic other related activity has been identified but currently cannot be independently tested and verified. Similarly, these networks are not covered by a contract, and no SLA is provided.
+- `Observed` indicates a network where traffic and other related activity has been identified but currently cannot be independently tested and verified. Similarly, these networks are not covered by a contract, and no SLA is provided.
 
 Please note that these test results are subject to inaccuracies as a result of changes to roaming agreements or technical modifications by the network operator to the network itself.
 
@@ -24,19 +24,19 @@ RAT                 Radio Access Technology (LTE-M or NB-IoT)
 Bands (Main)        LTE bands used for the test (additional bands may not be listed even if available)
 Plan                The Soracom IoT SIM subscription plan used for the test
 Support             Result of the test:
-                      - Guaranteed: Coverage is provided with roaming agreement (also shown on Supported Carriers page)
+                      - Guaranteed: Coverage is provided with a roaming agreement (also shown on the Supported Carriers page)
                       - Validated: Coverage is still under testing and deployment; Coverage and compatibility is subject to change
                       - Observed: Related traffic was identified but coverage has not yet been independently tested and verified
 Supported Features  Network features tested:
                       - All networks are tested for data transfer
                       - Where applicable, Low Power Wide Area Network (LPWAN) features such as eDRX, PSM and SMS are also tested
-                        - eDRX* and PSM* (with asterisk) indicates that a requested eDRX or PSM value will be modified by the local MNO
+                        - eDRX* and PSM* (with an asterisk) indicate that a requested eDRX or PSM value will be modified by the local MNO
 Date                The most recent date that the test was performed
 ```
 
 ## Related subscription plans
 
-The test results for the these subscription plans also apply to the following subscription plans:
+The test results for these subscription plans also apply to the following subscription plans:
 
 - Test results for `plan01s` also apply to `plan01s - LDV` and `plan-NA1`
 - Test results for `planX3` also apply to `planX3-EU`
