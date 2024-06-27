@@ -40,8 +40,8 @@ Singapore,SGP,52501,Singtel,NB-IoT,B3 | B8,plan01s,Validated,PSM* and eDRX,06/04
 Singapore,SGP,52501,Singtel,NB-IoT,B3 | B8,planP1,Validated,PSM* and eDRX,06/04/2024
 Slovak Republic,SVK,23101,Orange,NB-IoT,B20,planX3,Guaranteed,PSM and eDRX,06/04/2024
 Slovenia,SVN,29340,A1,NB-IoT,B20,plan01s,Guaranteed,PSM and eDRX,06/06/2024
-South Africa,ZAF,65510,,NB-IoT,B8,plan01s,Observed,,06/06/2024
-South Africa,ZAF,65501,,NB-IoT,B8,plan01s,Observed,,06/06/2024
+South Africa,ZAF,65510,MTN,NB-IoT,B8,plan01s,Observed,,06/06/2024
+South Africa,ZAF,65501,Vodacom,NB-IoT,B8,plan01s,Observed,,06/06/2024
 Spain,ESP,21403,Orange,NB-IoT,B20,plan01s,Validated,PSM* and eDRX,06/04/2024
 Spain,ESP,21403,Orange,NB-IoT,B20,planX3,Validated,SMS,06/04/2024
 Spain,ESP,21401,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM and eDRX | SMS,06/04/2024
