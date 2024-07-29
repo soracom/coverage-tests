@@ -1,4 +1,4 @@
-Country,ISO3166,MCC MNC,MNO (Dev Docs),RAT,Bands (Main),Plan,Support,Supported Features,Date
+Country,ISO3166,MCC MNC,MNO,RAT,Bands (Main),Plan,Support,Supported Features,Date
 Australia,AUS,50501,Telstra,NB-IoT,B28,plan01s,Observed,,06/06/2024
 Austria,AUT,23201,A1,NB-IoT,B20,plan01s,Guaranteed,PSM and eDRX | SMS,10/17/2023
 Austria,AUT,23201,A1,NB-IoT,B20,planX3,Guaranteed,PSM and eDRX | SMS,06/19/2023
@@ -15,13 +15,13 @@ Canada,CAN,302720,Rogers,NB-IoT,B12,plan-US-NA,Validated,-,06/25/2024
 Chile,CHL,73001,Entel,NB-IoT,B2 | B28,plan01s,Validated,PSM and eDRX,06/05/2024
 Chile,CHL,73003,Claro,NB-IoT,B28,planP1,Validated,PSM and eDRX,07/19/2024
 China,CHN,46000,China Mobile,NB-IoT,B8,plan01s,Validated,SMS,06/04/2024
-China,CHN,46000,China Mobile,NB-IoT,B8,planP1,Validated,eDRX | SMS(MT),06/11/2024
+China,CHN,46000,China Mobile,NB-IoT,B8,planP1,Validated,eDRX | SMS (MT),06/11/2024
 Croatia,HRV,21910,A1,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX,06/04/2024
 Croatia,HRV,21901,HT,NB-IoT,B20,planX3,Validated,PSM*,06/04/2024
 Cyprus,CYP,28001,Cytamobile,NB-IoT,,plan01s,Observed,,06/06/2024
-Estonia,EST,24802,Elisa,NB-IoT,B20,planP1,Validated,PSM* and eDRX | SMS(MT),06/04/2024
-Estonia,EST,24802,Elisa,NB-IoT,B20,planX3,Validated,PSM* SMS,04/20/2023
-Estonia,EST,24802,Elisa,NB-IoT,B20,plan01s,Validated,PSM* SMS,06/04/2024
+Estonia,EST,24802,Elisa,NB-IoT,B20,planP1,Validated,PSM* and eDRX | SMS (MT),06/04/2024
+Estonia,EST,24802,Elisa,NB-IoT,B20,planX3,Validated,PSM* | SMS,04/20/2023
+Estonia,EST,24802,Elisa,NB-IoT,B20,plan01s,Validated,PSM* | SMS,06/04/2024
 Finland,FIN,24412,DNA,NB-IoT,B8 | B20,plan01s,Validated,PSM and eDRX | SMS,06/04/2024
 Finland,FIN,24412,DNA,NB-IoT,B8 | B20,planX3,Validated,PSM and eDRX,06/04/2024
 Germany,DEU,26202,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX,06/04/2024
@@ -52,7 +52,7 @@ Taiwan,TWN,46692,Chunghwa Telecom,NB-IoT,B8 | (B28),plan01s,Guaranteed,PSM* and 
 Ukraine,UKR,25506,Lifecell,NB-IoT,,plan01s,Observed,,06/06/2024
 United Kingdom,GBR,23430,EE,NB-IoT,B3,plan01s,Observed,,06/06/2024
 United Kingdom,GBR,23415,Vodafone,NB-IoT,B20,planX3,Guaranteed,PSM*,11/29/2023
-United States,USA,310410,AT&T,NB-IoT,B2| B12| B17| B85,plan-US,Validated,PSM and eDRX,06/04/2024
+United States,USA,310410,AT&T,NB-IoT,B2 | B12 | B17| B85,plan-US,Validated,PSM and eDRX,06/04/2024
 United States,USA,311588,US Cellular,NB-IoT,B12,planUS,Guaranteed,PSM* and eDRX | SMS,07/04/2024
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan01s,Guaranteed,PSM and eDRX,05/23/2024
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan-NA1,Guaranteed,PSM and eDRX,05/23/2024
@@ -119,8 +119,8 @@ Germany,DEU,26202,Vodafone,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,04/2
 Germany,DEU,26202,Vodafone,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,06/06/2024
 Greece,GRC,20205,Vodafone,LTE-M,B20,plan01s,Validated,PSM* | SMS,01/12/2024
 Greece,GRC,20205,Vodafone,LTE-M,B20,planX3,Validated,PSM* | SMS,01/12/2024
-Greece,GRC,20210,Wind,LTE-M,B20,plan01s,Validated, PSM* | SMS,07/01/2024
-Greece,GRC,20210,Wind,LTE-M,B20,planP1,Validated, PSM* | SMS,07/01/2024
+Greece,GRC,20210,Wind,LTE-M,B20,plan01s,Validated,PSM* | SMS,07/01/2024
+Greece,GRC,20210,Wind,LTE-M,B20,planP1,Validated,PSM* | SMS,07/01/2024
 Honduras,HND,708001,Claro,LTE-M,B2,plan01s,Validated,SMS,01/02/2024
 Hungary,HUN,21630,Telekom.hu,LTE-M,B3 | B20,plan01s,Validated,SMS,01/30/2024
 Hungary,HUN,21601,Yettel,LTE-M,B20,planX3,Validated,SMS,06/10/2024
@@ -135,7 +135,7 @@ Israel,ISR,42503,Pelephone,LTE-M,B3 | B28,plan01s,Validated,PSM and eDRX | SMS,0
 Israel,ISR,42502,Cellcom,LTE-M,B3,plan01s,Validated,PSM and eDRX | SMS,01/30/2024
 Israel,ISR,42501,Partner,LTE-M,B3,plan01s,Validated,PSM and eDRX | SMS,01/30/2024
 Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,plan01s,Validated,PSM* and eDRX | SMS,01/30/2024
-Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,planX3,Validated,eDRX*=81.92 & PSM* | SMS,06/06/2024
+Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,planX3,Validated,eDRX* (81.92) & PSM* | SMS,06/06/2024
 Japan,JPN,44052,KDDI,LTE-M,B18,plan-KM1,Guaranteed,PSM* and eDRX | SMS,01/12/2024
 Japan,JPN,44051,KDDI,LTE-M,B18,plan01s,Validated,PSM | SMS,07/01/2024
 Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,plan-D,Guaranteed,PSM and eDRX | SMS,01/12/2024
