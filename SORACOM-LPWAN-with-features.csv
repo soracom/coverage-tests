@@ -52,7 +52,7 @@ Taiwan,TWN,46692,Chunghwa Telecom,NB-IoT,B8 | (B28),plan01s,Guaranteed,PSM* and 
 Ukraine,UKR,25506,Lifecell,NB-IoT,,plan01s,Observed,,06/06/2024
 United Kingdom,GBR,23430,EE,NB-IoT,B3,plan01s,Observed,,06/06/2024
 United Kingdom,GBR,23415,Vodafone,NB-IoT,B20,planX3,Guaranteed,PSM*,11/29/2023
-United States,USA,310410,AT&T,NB-IoT,B2 | B12 | B17| B85,plan-US,Validated,PSM and eDRX,06/04/2024
+United States,USA,310410,AT&T,NB-IoT,B2 | B12 | B17 | B85,plan-US,Validated,PSM and eDRX,06/04/2024
 United States,USA,311588,US Cellular,NB-IoT,B12,planUS,Guaranteed,PSM* and eDRX | SMS,07/04/2024
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan01s,Guaranteed,PSM and eDRX,05/23/2024
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan-NA1,Guaranteed,PSM and eDRX,05/23/2024
@@ -135,7 +135,7 @@ Israel,ISR,42503,Pelephone,LTE-M,B3 | B28,plan01s,Validated,PSM and eDRX | SMS,0
 Israel,ISR,42502,Cellcom,LTE-M,B3,plan01s,Validated,PSM and eDRX | SMS,01/30/2024
 Israel,ISR,42501,Partner,LTE-M,B3,plan01s,Validated,PSM and eDRX | SMS,01/30/2024
 Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,plan01s,Validated,PSM* and eDRX | SMS,01/30/2024
-Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,planX3,Validated,eDRX* (81.92) & PSM* | SMS,06/06/2024
+Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,planX3,Validated,eDRX* (81.92) and PSM* | SMS,06/06/2024
 Japan,JPN,44052,KDDI,LTE-M,B18,plan-KM1,Guaranteed,PSM* and eDRX | SMS,01/12/2024
 Japan,JPN,44051,KDDI,LTE-M,B18,plan01s,Validated,PSM | SMS,07/01/2024
 Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,plan-D,Guaranteed,PSM and eDRX | SMS,01/12/2024
