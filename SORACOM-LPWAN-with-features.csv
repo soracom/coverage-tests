@@ -244,7 +244,7 @@ Turkey,TUR,28602,Vodafone,LTE-M,B20,plan01s,Validated,SMS,11/28/2024
 United Arab Emirates,ARE,42402,Etisalat,LTE-M,B20,plan01s,Validated,SMS,01/30/2024
 United Kingdom,GBR,23410,O2,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,06/24/2024
 United Kingdom,GBR,23415,Vodafone,LTE-M,B20,planX3,Validated,SMS,06/06/2024
-United Kingdom,GBR,23415,Vodafone,LTE-M,B20,plan01s,Validated,SMS,04/26/2024
+United Kingdom,GBR,23415,Vodafone,LTE-M,B20,plan01s,Guaranteed,SMS,01/03/2025
 Uruguay,URY,74801,Antel,LTE-M,B28,plan01s,Validated,PSM and eDRX | SMS,04/30/2024
 Uruguay,URY,74810,Claro,LTE-M,B28,plan01s,Validated,SMS,04/30/2024
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17),plan01s,Guaranteed,PSM and eDRX | SMS,06/06/2024
