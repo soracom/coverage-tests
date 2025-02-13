@@ -117,7 +117,7 @@ Finland,FIN,24405,Elisa,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,05/13/2
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,plan01s,Validated,SMS,04/26/2024
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,planX3,Validated,SMS,01/16/2024
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,planP1,Validated,SMS,06/10/2024
-France,FRA,20801,Orange,LTE-M,B20,plan01s,Validated,PSM* or eDRX | SMS,09/26/2024
+France,FRA,20801,Orange,LTE-M,B20,plan01s,Guaranteed,PSM* or eDRX | SMS,10/29/2024
 France,FRA,20801,Orange,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,06/10/2024
 France,FRA,20810,SFR,LTE-M,B20,plan01s,Validated,SMS,04/26/2024
 Germany,DEU,26203,O2,LTE-M,B20,plan01s,Validated,PSM*>=180min | SMS,09/19/2024
