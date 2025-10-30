@@ -45,7 +45,7 @@ Finland,FIN,24412,DNA,NB-IoT,B8 | B20,planNT1,Guaranteed,PSM and eDRX,01/23/2024
 Finland,FIN,24412,DNA,NB-IoT,B8 | B20,planX3,Validated,PSM and eDRX,06/04/2024
 Germany,DEU,26203,O2,NB-IoT,B20,planX3,Validated,PSM*>=180min | SMS,09/26/2024
 Germany,DEU,26203,O2,NB-IoT,B20,plan01s,Guaranteed,PSM*>=180min | SMS,02/14/2025
-Germany,DEU,26203,O2,NB-IoT,B20,planNT1,Guaranteed,PSM*>=180min | SMS,09/17/2025
+Germany,DEU,26203,O2,NB-IoT,B20,planNT1,Guaranteed,PSM*>=180min | SMS,10/29/2025
 Germany,DEU,26202,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX,08/20/2024
 Greece,GRC,20205,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM*,02/14/2025
 Greece,GRC,20205,Vodafone,NB-IoT,B20,planNT1,Validated,PSM*,07/02/2025
@@ -121,7 +121,6 @@ Belgium,BEL,20610,Orange,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,05/30/2
 Belgium,BEL,20610,Orange,LTE-M,B20,planNT1,Guaranteed,SMS,06/05/2025
 Belgium,BEL,20610,Orange,LTE-M,B20,planP1,Validated,SMS,06/03/2024
 Belgium,BEL,20601,Proximus,LTE-M,B20,plan01s,Guaranteed,PSM and eDRX | SMS,05/01/2025
-Belgium,BEL,20601,Proximus,LTE-M,B20,planNT1,Validated,SMS,10/20/2025
 Belgium,BEL,20601,Proximus,LTE-M,B20,planX3,Validated,SMS,05/30/2024
 Brazil,BRA,72423,Vivo,LTE-M,B3,plan01s,Validated,SMS,01/30/2024
 Brazil,BRA,72411,Vivo,LTE-M,B3,plan01s,Validated,SMS,01/30/2024
@@ -141,7 +140,6 @@ Canada,CAN,302500,Videotron,LTE-M,B12 | B85,plan01s,Validated,SMS,06/05/2024
 Canada,CAN,302500,Videotron,LTE-M,B12 | B85,plan-NA1,Validated,SMS,06/05/2024
 Colombia,COL,732123,Movistar,LTE-M,B5,plan01s,Validated,SMS,07/24/2024
 Costa Rica,CRI,71203,Claro,LTE-M,B3,plan01s,Guaranteed,SMS,01/30/2024
-Costa Rica,CRI,71203,Claro,LTE-M,B3,planNT1,Validated,SMS,07/28/2025
 Costa Rica,CRI,71204,Movistar,LTE-M,B3,plan01s,Validated,SMS,01/03/2024
 Croatia,HRV,21910,A1,LTE-M,B20,plan01s,Validated,PSM* and eDRX | SMS,01/14/2025
 Croatia,HRV,21910,A1,LTE-M,B20,planX3,Validated,PSM* and eDRX | SMS,01/14/2025
@@ -172,10 +170,10 @@ El Salvador,SLV,70601,Claro,LTE-M,B2,plan01s,Guaranteed,PSM* | SMS,04/04/2025
 Estonia,EST,24802,Elisa,LTE-M,B3,plan01s,Guaranteed,PSM* | SMS,06/10/2024
 Estonia,EST,24802,Elisa,LTE-M,B3,planX3,Validated,PSM* | SMS,06/05/2024
 Estonia,EST,24802,Elisa,LTE-M,B3,planP1,Validated,PSM* | SMS,06/05/2024
-Estonia,EST,24801,Telia,LTE-M,B3 | B20,plan01s,Validated,SMS,04/26/2024
-Estonia,EST,24801,Telia,LTE-M,B3 | B20,planNT1,Validated,SMS,01/17/2024
-Estonia,EST,24801,Telia,LTE-M,B3 | B20,planX3,Validated,SMS,06/05/2024
-Estonia,EST,24801,Telia,LTE-M,B3 | B20,planP1,Validated,SMS,06/05/2024
+Estonia,EST,24801,EMT,LTE-M,B3 | B20,plan01s,Validated,SMS,04/26/2024
+Estonia,EST,24801,EMT,LTE-M,B3 | B20,planNT1,Validated,SMS,01/17/2024
+Estonia,EST,24801,EMT,LTE-M,B3 | B20,planX3,Validated,SMS,06/05/2024
+Estonia,EST,24801,EMT,LTE-M,B3 | B20,planP1,Validated,SMS,06/05/2024
 Estonia,EST,24803,Tele2,LTE-M,B20,plan01s,Validated,SMS,09/09/2025
 Estonia,EST,24803,Tele2,LTE-M,B20,planNT1,Validated,SMS,09/15/2025
 Faroe Islands,FRO,28801,Faroese Telecom,LTE-M,B20,plan01s,Validated,SMS,01/13/2025
@@ -183,8 +181,10 @@ Faroe Islands,FRO,28802,Hey,LTE-M,B20,plan01s,Validated,SMS,01/13/2025
 Finland,FIN,24412,DNA,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,09/13/2024
 Finland,FIN,24412,DNA,LTE-M,B20,planNT1,Guaranteed,PSM* and eDRX | SMS,10/02/2024
 Finland,FIN,24412,DNA,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,04/23/2024
-Finland,FIN,24405,Elisa,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,05/13/2024
+Finland,FIN,24405,Elisa,LTE-M,B3 | B20,plan01s,Guaranteed,PSM* and eDRX | SMS,05/13/2024
+Finland,FIN,24405,Elisa,LTE-M,B3 | B20,planNT1,Validated,PSM* and eDRX | SMS,10/22/2025
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,plan01s,Validated,SMS,04/26/2024
+Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,planNT1,Validated,SMS,10/22/2025
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,planX3,Validated,SMS,01/16/2024
 Finland,FIN,24491,Telia,LTE-M,B1 | B3 | B7 | B20 | B28,planP1,Validated,SMS,06/10/2024
 France,FRA,20820,Bouygues,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,05/07/2025
@@ -200,6 +200,7 @@ Germany,DEU,26201,Telekom.de,LTE-M,B3 | B20,planP1,Validated,SMS,07/17/2025
 Germany,DEU,26202,Vodafone,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,04/01/2025
 Germany,DEU,26202,Vodafone,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,06/06/2024
 Greece,GRC,20205,Vodafone,LTE-M,B20,plan01s,Validated,PSM* | SMS,01/12/2024
+Greece,GRC,20205,Vodafone,LTE-M,B20,planNT1,Validated,PSM* | SMS,10/22/2025
 Greece,GRC,20205,Vodafone,LTE-M,B20,planX3,Validated,PSM* | SMS,01/12/2024
 Greece,GRC,20210,Wind,LTE-M,B20,plan01s,Validated,PSM* | SMS,07/01/2024
 Greece,GRC,20210,Wind,LTE-M,B20,planP1,Validated,PSM* | SMS,07/01/2024
@@ -225,7 +226,6 @@ Israel,ISR,42501,Partner,LTE-M,B3,plan01s,Guaranteed,PSM and eDRX | SMS,04/01/20
 Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,plan01s,Guaranteed,eDRX* (81.92) and PSM* | SMS,06/25/2025
 Italy,ITA,22210,Vodafone,LTE-M,B3 | B20,planX3,Validated,eDRX* (81.92) and PSM* | SMS,06/25/2025
 Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,plan-D,Guaranteed,PSM and eDRX | SMS,01/12/2024
-Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,planNT1,Guaranteed,PSM* and eDRX | SMS,10/02/2024
 Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,plan01s,Guaranteed,PSM* and eDRX | SMS,07/24/2025
 Japan,JPN,44010,NTT Docomo,LTE-M,B1 | B19,planX3,Guaranteed,PSM* and eDRX | SMS,07/01/2024
 Japan,JPN,44020,SoftBank,LTE-M,B1 | B8,plan01s,Guaranteed,PSM and eDRX | SMS,06/06/2024
@@ -269,7 +269,7 @@ Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,plan01s,Guaranteed,PSM* and eDRX |
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planNT1,Validated,PSM* and eDRX | SMS,01/18/2024
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planX3,Guaranteed,PSM* and eDRX | SMS,04/18/2024
 New Zealand,NZL,53005,Spark,LTE-M,B28,plan01s,Guaranteed,SMS,08/04/2025
-New Zealand,NZL,53005,Spark,LTE-M,B28,planNT1,Validated,SMS,01/18/2024
+New Zealand,NZL,53005,Spark,LTE-M,B28,planNT1,Validated,SMS,10/29/2025
 New Zealand,NZL,53005,Spark,LTE-M,B28,planP1,Validated,SMS,07/28/2025
 New Zealand,NZL,53001,Vodafone,LTE-M,B3 | B28,plan01s,Validated,SMS,04/26/2024
 New Zealand,NZL,53001,Vodafone,LTE-M,B3 | B28,planX3,Validated,SMS,02/20/2025
@@ -287,6 +287,7 @@ Poland,POL,26003,Orange,LTE-M,B20,planP1,Validated,SMS,06/10/2024
 Portugal,PRT,26806,MEO,LTE-M,B20,plan01s,Validated,SMS,04/26/2024
 Portugal,PRT,26806,MEO,LTE-M,B20,planNT1,Validated,SMS,01/18/2024
 Portugal,PRT,26801,Vodafone,LTE-M,B20,plan01s,Guaranteed,PSM* | SMS,02/04/2025
+Portugal,PRT,26801,Vodafone,LTE-M,B20,planNT1,Validated,SMS,10/22/2025
 Portugal,PRT,26801,Vodafone,LTE-M,B20,planX3,Guaranteed,PSM* | SMS,06/10/2024
 Portugal,PRT,26803,NOS,LTE-M,B20,planX3,Validated,SMS,06/10/2024
 Puerto Rico,PRI,330110,Claro,LTE-M,B4,plan01s,Validated,PSM* and eDRX | SMS,01/12/2024
@@ -308,6 +309,7 @@ Slovenia,SVN,29340,A1,LTE-M,B20,planX3,Validated,PSM and eDRX | SMS,06/06/2024
 Slovakia,SVK,23101,Orange,LTE-M,B20,plan01s,Validated,SMS,01/30/2024
 Slovakia,SVK,23101,Orange,LTE-M,B20,planX3,Guaranteed,PSM and eDRX | SMS,04/23/2024
 South Korea,KOR,45008,KT,LTE-M,B3,plan01s,Validated,PSM | SMS,07/24/2024
+South Korea,KOR,45008,KT,LTE-M,B3,planNT1,Validated,PSM | SMS,10/22/2025
 South Korea,KOR,45005,SKTelecom,LTE-M,B5,plan01s,Validated,SMS,06/10/2024
 South Korea,KOR,45005,SKTelecom,LTE-M,B5,planNT1,Validated,SMS,01/18/2024
 South Korea,KOR,45005,SKTelecom,LTE-M,B5,planP1,Validated,SMS,06/10/2024
@@ -337,7 +339,6 @@ Switzerland,CHE,22802,Sunrise,LTE-M,B20,planP1,Validated,SMS,07/04/2025
 Switzerland,CHE,22802,Sunrise,LTE-M,B20,planNT1,Guaranteed,PSM and eDRX | SMS,06/11/2025
 Switzerland,CHE,22802,Sunrise,LTE-M,B20,planX3,Validated,SMS,01/05/2024
 Taiwan,TWN,46692,Chunghwa Telecom,LTE-M,B3,plan01s,Guaranteed,PSM* and eDRX | SMS,06/10/2024
-Taiwan,TWN,46692,Chunghwa Telecom,LTE-M,B3,planNT1,Guaranteed,PSM* and eDRX,11/18/2024
 Taiwan,TWN,46692,Chunghwa Telecom,LTE-M,B3,planX3,Guaranteed,PSM* and eDRX | SMS,06/10/2024
 Taiwan,TWN,46601,FarEasTone,LTE-M,B28,planP1,Validated,PSM* and eDRX | SMS,02/13/2025
 Turkey,TUR,28601,Turkcell,LTE-M,B20,plan01s,Guaranteed,SMS,11/08/2024
@@ -367,7 +368,7 @@ United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17),plan-US-max,Guaranteed,P
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17),planX3,Guaranteed,PSM and eDRX | SMS,06/06/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,plan01s,Guaranteed,PSM* and eDRX | SMS,06/06/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,plan-NA1,Guaranteed,PSM* and eDRX | SMS,06/06/2024
-United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,planNT1,Guaranteed,PSM and eDRX,05/30/2025
+United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,planNT1,Guaranteed,PSM and eDRX,10/29/2025
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,planP1,Validated,SMS,01/16/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,plan-US-NA,Validated,SMS,01/16/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71,plan-US-max,Validated,SMS,08/06/2024
