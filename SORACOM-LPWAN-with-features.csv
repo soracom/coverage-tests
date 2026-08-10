@@ -427,7 +427,7 @@ Mayotte,MYT,64700,Orange,LTE-M,B20,planX3,Guaranteed,PSM* or eDRX | SMS,10/29/20
 Mayotte,MYT,64710,SFR,LTE-M,B20,plan01s,Validated,SMS,10/29/2024
 Mayotte,MYT,64710,SFR,LTE-M,B20,planV1,Validated,SMS,11/11/2024
 Mexico,MEX,334020,Telcel,LTE-M,B4,plan01s,Validated,PSM* and eDRX | SMS,01/30/2024
-Mexico,MEX,334020,TelCel,LTE-M,B4,planV1,Guaranteed,PSM* and eDRX | SMS,12/03/2025
+Mexico,MEX,334020,Telcel,LTE-M,B4,planV1,Guaranteed,PSM* and eDRX | SMS,12/03/2025
 Mexico,MEX,334020,Telcel,LTE-M,B4,planX3,Validated,PSM* and eDRX | SMS,06/10/2024
 Mexico,MEX,334030,Movistar,LTE-M,B4,plan01s,Guaranteed,PSM and eDRX | SMS,01/20/2025
 Mexico,MEX,334030,Movistar,LTE-M,B4,planNT1,Validated,PSM and eDRX | SMS,03/26/2026
