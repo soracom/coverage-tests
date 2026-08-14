@@ -38,7 +38,7 @@ Date                The most recent date that the test was performed
 
 The test results for these subscription plans also apply to the following subscription plans:
 
-- Test results for `plan01s` also apply to `plan01s - LDV` and `plan-NA1`
+- Test results for `plan01s` also apply to `plan01s - LDV`
 - Test results for `planP1` also apply to `plan-US-NA`
 
 However, please note that coverage for each of these related subscription plans may differ. Refer to the [Supported Carriers](https://developers.soracom.io/en/docs/reference/carriers/) page.
