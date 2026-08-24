@@ -450,6 +450,7 @@ Latvia,LVA,24701,LMT,LTE-M,B20,planP1,Validated,SMS,01/23/2024
 Latvia,LVA,24701,LMT,LTE-M,B20,planX3,Guaranteed,PSM* | SMS,06/06/2024
 Latvia,LVA,24701,LMT,LTE-M,B20,planX3-EU,Guaranteed,PSM* | SMS,06/06/2024
 La Reunion,REU,64700,Orange,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,10/22/2024
+La Reunion,REU,64700,Orange,LTE-M,B20,planX3-EU,Guaranteed,PSM* and eDRX | SMS,10/22/2024
 La Reunion,REU,64710,SFR,LTE-M,B20,plan01s,Validated,SMS,10/22/2024
 La Reunion,REU,64710,SFR,LTE-M,B20,planV1,Validated,SMS,11/11/2024
 Liechtenstein,LIE,22802,SUNRISE,LTE-M,B20,plan01s,Validated,PSM* and eDRX | SMS,01/30/2024
