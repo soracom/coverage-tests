@@ -185,7 +185,7 @@ United Kingdom,GBR,23430,EE,NB-IoT,B3,planNT1,Validated,PSM* and eDRX | SMS,04/1
 United Kingdom,GBR,23415,Vodafone,NB-IoT,B20,planX3,Guaranteed,PSM*,02/16/2026
 United Kingdom,GBR,23415,Vodafone,NB-IoT,B20,planX3-EU,Guaranteed,PSM*,02/16/2026
 United States,USA,310410,AT&T,NB-IoT,B2 | B4 | B12 | B17 | B85,plan-US,Validated,PSM and eDRX,06/04/2024
-United States,USA,311588,US Cellular,NB-IoT,B12,planUS,Guaranteed,PSM* and eDRX | SMS,07/04/2024
+United States,USA,311588,US Cellular,NB-IoT,B12,plan-US,Guaranteed,PSM* and eDRX | SMS,07/04/2024
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan01s,Guaranteed,PSM and eDRX | SMS | PCO only,12/10/2025
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,planNT1,Guaranteed,PSM and eDRX | SMS,07/08/2026
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan-NA1,Guaranteed,PSM and eDRX | SMS,12/10/2025
@@ -675,7 +675,7 @@ United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,plan-NA1,Guarantee
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,planNT1,Guaranteed,PSM and eDRX | SMS,05/03/2024
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,planM1,Guaranteed,PSM and eDRX | SMS,11/28/2025
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,planP1,Validated,PSM and eDRX | SMS,06/06/2024
-United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,planUS,Guaranteed,PSM and eDRX | SMS,05/19/2025
+United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,plan-US,Guaranteed,PSM and eDRX | SMS,05/19/2025
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,plan-US-max,Guaranteed,PSM and eDRX | SMS,01/12/2024
 United States,USA,310410,AT&T,LTE-M,B2 | B4 | B12 (B17) | B85,planX3,Guaranteed,PSM and eDRX | SMS,06/06/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71 | B85,plan01s,Guaranteed,PSM* and eDRX | SMS,06/06/2024
@@ -687,7 +687,7 @@ United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71 | B85,pl
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71 | B85,plan-US-NA,Validated,SMS,01/16/2024
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71 | B85,plan-US-max,Validated,PSM and eDRX,02/19/2026
 United States,USA,310260,T-Mobile,LTE-M,B2 | B4 | B12 (B17) | B66 | B71 | B85,planX3,Validated,SMS,04/15/2024
-United States,USA,311588,US Cellular,LTE-M,B2 | B5 | B12 | B85,planUS,Guaranteed,PSM* and eDRX | SMS,09/09/2025
-United States - Alaska,USA,311480,Verizon,LTE-M,B13,planUS,Guaranteed,PSM* and eDRX | SMS,05/19/2025
+United States,USA,311588,US Cellular,LTE-M,B2 | B5 | B12 | B85,plan-US,Guaranteed,PSM* and eDRX | SMS,09/09/2025
+United States - Alaska,USA,311480,Verizon,LTE-M,B13,plan-US,Guaranteed,PSM* and eDRX | SMS,05/19/2025
 United States,USA,311480,Verizon,LTE-M,B13,plan-US-max,Validated,SMS,09/19/2024
 United States,USA,311480,Verizon,LTE-M,B13,planM1,Validated,PSM* and eDRX* | SMS,01/07/2026
