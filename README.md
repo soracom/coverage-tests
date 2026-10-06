@@ -1,6 +1,6 @@
 # Soracom LPWAN Coverage
 
-Soracom maintains an official list of [Supported Carriers](https://developers.soracom.io/en/docs/reference/carriers/) that provides up-to-date details of its global cellular coverage. While this list represents cellular network coverage that is guaranteed through Soracom's roaming contracts and partnerships, there are many additional cellular networks where network access is available to devices using Soracom IoT SIMs but which are not yet officially guaranteed.
+Soracom maintains an official list of [Supported Carriers](https://docs.soracom.io/en/coverage) that provides up-to-date details of its global cellular coverage. While this list represents cellular network coverage that is guaranteed through Soracom's roaming contracts and partnerships, there are many additional cellular networks where network access is available to devices using Soracom IoT SIMs but which are not yet officially guaranteed.
 
 This repository provides supplemental information regarding testing that Soracom has performed for these additional cellular networks. Where testing is possible, each of the cellular networks listed in this repository is tested several times to confirm that data transfer is possible.
 
@@ -40,11 +40,11 @@ The test results for these subscription plans also apply to the following subscr
 
 - Test results for `plan01s` also apply to `plan01s - LDV`
 
-However, please note that coverage for each of these related subscription plans may differ. Refer to the [Supported Carriers](https://developers.soracom.io/en/docs/reference/carriers/) page.
+However, please note that coverage for each of these related subscription plans may differ. Refer to the [Supported Carriers](https://docs.soracom.io/en/coverage) page.
 
 ## Additional resources
 
-- Soracom [Supported Carriers](https://developers.soracom.io/en/docs/reference/carriers/)
+- Soracom [Supported Carriers](https://docs.soracom.io/en/coverage)
 - Soracom [PSM Calculator](https://www.soracom.io/psm-calculation-tool/)
 
 Further information regarding LPWAN features:
