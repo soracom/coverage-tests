@@ -109,11 +109,11 @@ Liechtenstein,LIE,29505,FL1,NB-IoT,B20,planV1,Validated,PSM or eDRX,08/27/2026
 Liechtenstein,LIE,29505,FL1,NB-IoT,B20,planX3,Validated,PSM or eDRX | SMS,08/27/2026
 Liechtenstein,LIE,29505,FL1,NB-IoT,B20,planX3-EU,Validated,PSM or eDRX | SMS,08/27/2026
 Lithuania,LTU,24602,Bite,NB-IoT,B20,planV1,Validated,PSM* and eDRX | SMS,08/27/2026
-Luxembourg,LUX,27001,P&T,NB-IoT,B20,plan01s,Validated,PSM* and eDRX | SMS,07/01/2025
-Luxembourg,LUX,27001,P&T,NB-IoT,B20,planNT1,Validated,PSM* and eDRX | SMS,09/09/2025
-Luxembourg,LUX,27001,P&T,NB-IoT,B20,planV1,Validated,PSM* and eDRX | SMS,07/01/2025
-Luxembourg,LUX,27001,P&T,NB-IoT,B20,planX3,Validated,PSM* and eDRX | SMS,07/01/2025
-Luxembourg,LUX,27001,P&T,NB-IoT,B20,planX3-EU,Validated,PSM* and eDRX | SMS,07/01/2025
+Luxembourg,LUX,27001,Post,NB-IoT,B20,plan01s,Validated,PSM* and eDRX | SMS,07/01/2025
+Luxembourg,LUX,27001,Post,NB-IoT,B20,planNT1,Validated,PSM* and eDRX | SMS,09/09/2025
+Luxembourg,LUX,27001,Post,NB-IoT,B20,planV1,Validated,PSM* and eDRX | SMS,07/01/2025
+Luxembourg,LUX,27001,Post,NB-IoT,B20,planX3,Validated,PSM* and eDRX | SMS,07/01/2025
+Luxembourg,LUX,27001,Post,NB-IoT,B20,planX3-EU,Validated,PSM* and eDRX | SMS,07/01/2025
 Luxembourg,LUX,27077,Tango,NB-IoT,B20,plan01s,Validated,,08/27/2026
 Luxembourg,LUX,27077,Tango,NB-IoT,B20,planNT1,Validated,,08/27/2026
 Malaysia,MYS,50216,Digi,NB-IoT,B8,plan01s,Validated,PSM and eDRX,05/09/2025
@@ -133,7 +133,7 @@ Norway,NOR,24201,Telenor,NB-IoT,B20,planNT1,Guaranteed,PSM and eDRX,08/27/2026
 Puerto Rico,PRI,310260,T-Mobile,NB-IoT,B4,plan01s,Guaranteed,PSM and eDRX | SMS,08/17/2026
 Puerto Rico,PRI,310260,T-Mobile,NB-IoT,B4,planNT1,Guaranteed,PSM and eDRX | SMS,08/17/2026
 Russia,RUS,25001,MTS,NB-IoT,B3,plan01s,Guaranteed,PSM and eDRX,05/07/2025
-Serbia,SRB,22005,A1,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX  | SMS,09/09/2026
+Serbia,SRB,22005,A1,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,09/09/2026
 Singapore,SGP,52501,Singtel,NB-IoT,B3 | B8,plan01s,Guaranteed,PSM* and eDRX,03/31/2026
 Singapore,SGP,52501,Singtel,NB-IoT,B3 | B8,planNT1,Guaranteed,PSM* and eDRX,08/27/2026
 Singapore,SGP,52501,Singtel,NB-IoT,B3 | B8,planM1,Validated,PSM* and eDRX,09/01/2025
@@ -184,7 +184,7 @@ United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,plan01s,Guaranteed,PSM an
 United States,USA,310260,T-Mobile,NB-IoT,B4 | B2 | B12,planNT1,Guaranteed,PSM and eDRX | SMS,07/08/2026
 Uruguay,URY,74801,Antel,NB-IoT,B3 | B28,plan01s,Validated,PSM and eDRX | SMS,08/27/2026
 Uruguay,URY,74801,Antel,NB-IoT,B3 | B28,planV1,Validated,PSM and eDRX | SMS,08/27/2026
-Vietnam,VNM,45202,vinaphone,NB-IoT,,plan01s,Observed,,10/12/2026
+Vietnam,VNM,45202,Vinaphone,NB-IoT,,plan01s,Observed,,10/12/2026
 Argentina,ARG,722310,Claro,LTE-M,B28,planV1,Validated,SMS,08/28/2026
 Argentina,ARG,72207,Movistar,LTE-M,B4,plan01s,Validated,SMS,08/28/2026
 Argentina,ARG,72207,Movistar,LTE-M,B4,planNT1,Validated,SMS,06/05/2025
@@ -467,11 +467,11 @@ Lithuania,LTU,24601,Telia,LTE-M,B8,planP1,Validated,SMS,09/02/2026
 Lithuania,LTU,24601,Telia,LTE-M,B8,planX3,Validated,SMS,09/02/2026
 Lithuania,LTU,24601,Telia,LTE-M,B8,planX3-EU,Validated,SMS,09/02/2026
 Lithuania,LTU,24602,Bite,LTE-M,B3 | B20,plan01s,Guaranteed,PSM* and eDRX | SMS,02/11/2026
-Luxembourg,LUX,27001,P&T,LTE-M,B20,planV1,Guaranteed,PSM* and eDRX | SMS,11/13/2024
-Luxembourg,LUX,27001,P&T,LTE-M,B20,planNT1,Guaranteed,PSM* and eDRX | SMS,12/22/2025
+Luxembourg,LUX,27001,Post,LTE-M,B20,planV1,Guaranteed,PSM* and eDRX | SMS,11/13/2024
+Luxembourg,LUX,27001,Post,LTE-M,B20,planNT1,Guaranteed,PSM* and eDRX | SMS,12/22/2025
 Luxembourg,LUX,27001,Post,LTE-M,B20,planX3,Guaranteed,PSM* and eDRX | SMS,07/24/2024
 Luxembourg,LUX,27001,Post,LTE-M,B20,planX3-EU,Guaranteed,PSM* and eDRX | SMS,07/24/2024
-Luxembourg,LUX,27001,P&T,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,06/06/2024
+Luxembourg,LUX,27001,Post,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,06/06/2024
 Mayotte,MYT,64700,Orange,LTE-M,B20,planX3,Guaranteed,PSM* or eDRX | SMS,08/27/2026
 Mayotte,MYT,64710,SFR,LTE-M,B20,plan01s,Validated,SMS,08/27/2026
 Mayotte,MYT,64710,SFR,LTE-M,B20,planV1,Validated,SMS,08/27/2026
@@ -495,7 +495,7 @@ Netherlands,NLD,20416,T-Mobile,LTE-M,B20,planP1,Validated,PSM and eDRX | SMS,08/
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planV1,Guaranteed,PSM* and eDRX | SMS,08/07/2026
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planNT1,Validated,PSM* and eDRX | SMS,08/07/2026
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planM1,Validated,PSM* and eDRX | SMS,08/27/2026
-Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planX3,Guaranteed,PSM* and eDRX | SMS,05/05/2024
+Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planX3,Guaranteed,PSM* and eDRX | SMS,08/27/2026
 Netherlands,NLD,20404,Vodafone,LTE-M,B8 | B20,planX3-EU,Guaranteed,PSM* and eDRX | SMS,08/27/2026
 Netherlands,NLD,20408,KPN,LTE-M,B20,planNT1,Guaranteed,PSM* and eDRX | SMS,02/02/2026
 Netherlands,NLD,20408,KPN,LTE-M,B20,plan01s,Guaranteed,PSM* and eDRX | SMS,08/27/2026
@@ -561,10 +561,10 @@ Saint Martin,GLP,34001,Orange,LTE-M,B20,plan01s,Validated,SMS,11/17/2025
 Saint Martin,GLP,34001,Orange,LTE-M,B20,planX3,Validated,SMS,11/17/2025
 Senegal,SEN,60801,Orange,LTE-M,B20,planX3,Validated,SMS,08/27/2026
 Senegal,SEN,60801,Orange,LTE-M,B20,planV1,Validated,SMS,08/27/2026
-Serbia,RS,22005,A1,LTE-M,B20,plan01s,Validated,PSM and eDRX | SMS,08/27/2026
-Serbia,RS,22005,A1,LTE-M,B20,planNT1,Validated,PSM and eDRX | SMS,08/27/2026
-Serbia,RS,22005,A1,LTE-M,B20,planX3,Validated,PSM and eDRX | SMS,08/27/2026
-Serbia,RS,22005,A1,LTE-M,B20,planX3-EU,Validated,PSM and eDRX | SMS,08/27/2026
+Serbia,SRB,22005,A1,LTE-M,B20,plan01s,Validated,PSM and eDRX | SMS,08/27/2026
+Serbia,SRB,22005,A1,LTE-M,B20,planNT1,Validated,PSM and eDRX | SMS,08/27/2026
+Serbia,SRB,22005,A1,LTE-M,B20,planX3,Validated,PSM and eDRX | SMS,08/27/2026
+Serbia,SRB,22005,A1,LTE-M,B20,planX3-EU,Validated,PSM and eDRX | SMS,08/27/2026
 Singapore,SGP,52501,Singtel,LTE-M,B3,planM1,Validated,PSM* and eDRX | SMS,09/01/2025
 Singapore,SGP,52501,Singtel,LTE-M,B3,planX3,Validated,PSM* and eDRX | SMS,04/14/2026
 Singapore,SGP,52501,Singtel,LTE-M,B3,planNT1,Guaranteed,PSM* and eDRX | SMS,08/27/2026
