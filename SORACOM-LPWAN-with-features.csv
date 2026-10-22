@@ -82,6 +82,7 @@ Germany,DEU,26203,O2,NB-IoT,B20,plan01s,Guaranteed,PSM*>=180min | SMS,09/03/2026
 Germany,DEU,26203,O2,NB-IoT,B20,planNT1,Guaranteed,PSM*>=180min | SMS,09/03/2026
 Germany,DEU,26203,O2,NB-IoT,B20,planV1,Validated,PSM*>=180min and eDRX | SMS,09/03/2026
 Germany,DEU,26202,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM* and eDRX,08/27/2026
+Greece,GRC,20205,Vodafone,NB-IoT,B20,plan01s,Guaranteed,PSM*,10/22/2026
 Greece,GRC,20210,Wind,NB-IoT,B20,plan01s,Validated,PSM*,08/03/2026
 Greece,GRC,20210,Wind,NB-IoT,B20,planM1,Validated,PSM*,07/02/2025
 Greece,GRC,20210,Wind,NB-IoT,B20,planP1,Validated,PSM* and eDRX,08/27/2026
